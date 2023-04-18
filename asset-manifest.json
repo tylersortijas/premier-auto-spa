@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/premier-auto-spa/static/css/main.18832a79.css",
+    "main.js": "/premier-auto-spa/static/js/main.08ea3dcf.js",
+    "static/media/luxury-wash.jpeg": "/premier-auto-spa/static/media/luxury-wash.178c6658da6130891385.jpeg",
+    "static/media/luxury-interior.jpg": "/premier-auto-spa/static/media/luxury-interior.f0190f2a77d70fb7f53d.jpg",
+    "static/media/the-pasadena.webp": "/premier-auto-spa/static/media/the-pasadena.67ec4fd783d5661983dd.webp",
+    "static/media/7-carousel.webp": "/premier-auto-spa/static/media/7-carousel.9c26b8933844a558756d.webp",
+    "static/media/3-carousel.webp": "/premier-auto-spa/static/media/3-carousel.e03b08e6146ea278ae64.webp",
+    "static/media/1-carousel.webp": "/premier-auto-spa/static/media/1-carousel.12294607bc882b1b8a54.webp",
+    "static/media/5-carousel.webp": "/premier-auto-spa/static/media/5-carousel.cc6622b5a331ca00dc68.webp",
+    "static/media/6-carousel.webp": "/premier-auto-spa/static/media/6-carousel.33c28009e7136edfe844.webp",
+    "static/media/2-carousel.webp": "/premier-auto-spa/static/media/2-carousel.dcd0efd709da05a56735.webp",
+    "static/media/home-page-background.avif": "/premier-auto-spa/static/media/home-page-background.b6a64c8d97999ab7ca38.avif",
+    "static/media/4-carousel.webp": "/premier-auto-spa/static/media/4-carousel.6abe36218b668d08ec01.webp",
+    "static/media/enhance-package.webp": "/premier-auto-spa/static/media/enhance-package.bd4b9d378f02f7998f3f.webp",
+    "static/media/renew.jpg": "/premier-auto-spa/static/media/renew.c91c2a5ddcce4fbd4885.jpg",
+    "static/media/sport-wash.jpeg": "/premier-auto-spa/static/media/sport-wash.93c640f42de0c4537ef2.jpeg",
+    "static/media/location.jpg": "/premier-auto-spa/static/media/location.5012fecd9929ae046ae7.jpg",
+    "index.html": "/premier-auto-spa/index.html",
+    "main.18832a79.css.map": "/premier-auto-spa/static/css/main.18832a79.css.map",
+    "main.08ea3dcf.js.map": "/premier-auto-spa/static/js/main.08ea3dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18832a79.css",
+    "static/js/main.08ea3dcf.js"
+  ]
+}
