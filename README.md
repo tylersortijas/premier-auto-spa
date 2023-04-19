@@ -11,7 +11,10 @@ It was a pleasure to make this for them and I can't wait to implement the back e
 
 # Future Implementation:
 - Square API for bookings
+- Square Dashboard Analytics
+- Square Organize Customers (Customer loyalty System)
+- Square Node Install
 - Google maps API for location
 - Fully Reponsive on every page
 - Nodejs Backend
-- Depoyment on Heroku
+- Deployment on Heroku
