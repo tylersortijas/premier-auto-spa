@@ -4,7 +4,13 @@
 # Website Preview:
 ![ezgif premier-auto-spa](https://user-images.githubusercontent.com/96886636/232913725-0d203adb-dc7c-4c59-aec9-fa2a9738a5fe.gif)
 
-# Features & About:
-Without the backend, visually made this website for a local carwash business Premier Auto Spa based in Pasadena, CA. 
+# About:
+The backend for the site is not created (yet). I made a mock for this website for a local carwash business Premier Auto Spa based in Pasadena, CA. 
 They were looking to revamp their website with a more modern approach to design and overall eye candy. 
 It was a pleasure to make this for them and I can't wait to implement the back end and hopefully get more freelance opportunities.
+
+# Future Implementation:
+- Square API for bookings
+- Google maps API for location
+- Fully Reponsive on every page
+- Nodejs Backend
