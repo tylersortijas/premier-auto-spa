@@ -18,3 +18,4 @@ It was a pleasure to make this for them and I can't wait to implement the back e
 - Fully Reponsive on every page
 - Nodejs Backend
 - Deployment on Heroku
+- End of June 2023
